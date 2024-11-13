@@ -1,5 +1,5 @@
 # CONEXAOBD
-Este exercicio pede para usarmos o conhecimento sobre arrays e interfaces para criarmos uma lista de gerenciamento de frutas contendo uma interface com os botões de adicionar, remover e modificar a lista.
+Este Exercicio pede para criarmos um projeto no java e realize conexão ao banco de dados, depois criarmos os metodos de  conexão, inserir, deletar, atualizar e exibir os dados que o usuario informar em uma tabela.
 
 ## 🚀 Começando
 
