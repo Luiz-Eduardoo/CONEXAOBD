@@ -25,6 +25,8 @@ TESTE O FUNCIONAMENTO DE CADA CLASSE CRIADA, PARA ISSO COMPILE A CLASSE E CONFIR
 
 ## 📋 Pré-requisitos
 
+WampServer
+
 IDE: Eclipse
 
 ## 🔧 Instalação
